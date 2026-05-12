@@ -14,8 +14,8 @@ public class HelloController {
 
         return Map.of(
                 "message", "Hello from Spring Boot",
-                "team", "Team NikVol",
-                "indexes", List.of(75660, 75668)
+                "team", "Team NikVolVldk",
+                "indexes", List.of(75660, 75668, 75666)
         );
     }
 }
